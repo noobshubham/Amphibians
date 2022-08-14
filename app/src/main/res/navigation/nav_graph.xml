@@ -31,6 +31,6 @@
     <fragment
         android:id="@+id/amphibianDetailFragment"
         android:name="com.example.amphibians.ui.AmphibianDetailFragment"
-        android:label="fragment_amphibian_detail"
+        android:label="AmphibianDetailFragment"
         tools:layout="@layout/fragment_amphibian_detail" />
 </navigation>
