@@ -1,4 +1,4 @@
-Amphibians - Starter Code
+Amphibians
 ==================================
 
 Starter code for the fourth independent project for Android Basics in Kotlin. This project pairs
